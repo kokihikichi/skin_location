@@ -1,1 +1,1 @@
-# skin_location
+# skin_location recommendation
